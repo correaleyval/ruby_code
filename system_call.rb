@@ -1,0 +1,2 @@
+puts `dir`
+puts `ipconfig`
